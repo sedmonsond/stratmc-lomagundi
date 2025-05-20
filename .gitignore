@@ -1,0 +1,17 @@
+notebooks/figures
+notebooks/traces
+notebooks/Banff Geobiology - map.ipynb
+notebooks/Banff Geobiology - main results.ipynb
+notebooks/data/.DS_Store
+notebooks/initial_values
+notebooks/Mass balance model.ipynb
+notebooks/traces.zip
+notebooks/notebook_export
+**.DS_Store
+**.zip
+**-checkpoint.ipynb
+
+notebooks/.ipynb_checkpoints/Banff Geobiology - main results-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Banff Geobiology - map-checkpoint.ipynb
+paleoproterozoic_data_original.xlsx
+notebooks/data/~$paleoproterozoic_data.xlsx
