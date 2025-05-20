@@ -1,6 +1,6 @@
 ## Description of supplementary data for Edmonsond & Dyer: "Timing and magnitude of the Lomagundi carbon isotope excursion"
 
-The posterior inference results (NetCDF4 files), along with Jupyter notebooks required to reproduce our results and figures, are archived on Zenodo: 
+The posterior inference results (NetCDF4 files), along with Jupyter notebooks required to reproduce our results and figures, are archived on Zenodo: <https://doi.org/10.5281/zenodo.15460760>
 
 Supplementary data are provided as .csv files; all data also are compiled in ``paleoproterozoic_database.xlsx``. All ``.pkl`` files included in this directory are calculated values that are accessed in the Jupyter notebooks.
 
